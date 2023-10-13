@@ -6,6 +6,7 @@ This script allows you to send a tweet using the new X API (formerly known as Tw
 
 1. Python 3.x installed.
 2. A .env file containing your X API keys.
+3. tweepy and python-dotenv
 
 ## Setup & Installation
 
